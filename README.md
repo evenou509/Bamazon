@@ -30,4 +30,4 @@ this module lets supervisor view product sales by department add new department.
 
 ### demo
 
-![Demo](video/bamazonsupervasor-video-to-gif.gif)
+![Demo](video/bamazonSupervasor-video-to-gif.gif)
