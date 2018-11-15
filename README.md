@@ -14,6 +14,7 @@ this module also updates to the product sales for a department.
 # Demo
 
     ![Demo](video/bamazonCustomer-video-to-gif.gif)
+    
 
 
 # BamazonManager module
