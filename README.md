@@ -15,7 +15,6 @@ this module also updates to the product sales for a department.
 
 ![Demo](video/bamazonCustomer-video-to-gif.gif)
 
-
 # BamazonManager module
 
 this module lets managers view the list of products, view low inventory, add inventory and add products
