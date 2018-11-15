@@ -13,7 +13,7 @@ this module also updates to the product sales for a department.
 
 # Demo
 
-    ![Demo](video/bamazonCustomer-video-to-gif.gif)
+![Demo](video/bamazonCustomer-video-to-gif.gif)
 
 
 # BamazonManager module
@@ -22,8 +22,13 @@ this module lets managers view the list of products, view low inventory, add inv
 
 #demo
 
+![Demo](video/bamazonManager1-video-to-gif.gif)
+![Demo](video/bamazonManager2-video-to-gif.gif)
+
 #BamazonSupervisor module
 
 this module lets supervisor view product sales by department add new department. 
 
 #demo
+
+![Demo](video/bamazonsupervasor-video-to-gif.gif)
