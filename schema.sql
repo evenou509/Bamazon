@@ -35,7 +35,7 @@ CREATE TABLE Departments(
     department_id INT AUTO_INCREMENT NOT NULL,
     department_name VARCHAR(50) NOT NULL,
     over_head_costs DECIMAL(10,2) NOT NULL,
-    total_sales DECIMAL(10,2) NOT NULL,
+    product_sales DECIMAL(10,2) NOT NULL,
 
     primary key(department_id)
 );
